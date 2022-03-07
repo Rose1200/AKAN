@@ -1,0 +1,35 @@
+!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <title>Akan Names Generator</title>
+        <link href="./css/styles.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+
+        <h1>Akan Names Generator</h1>
+        <p>Hey there! Lets have some fun!</p>
+        <p>Please fill in the form below to get your Ghanian Akan name: </p>
+
+        <form onsubmit="getUserInput(event)">
+
+            <h3>DOB</h3>
+
+            <label for="bith-date">Enter Date of Birth:</label>
+            <input type="date" id="birth-date">
+
+            <h3>Gender</h3>
+
+            <label for="male">Male:</label>
+            <input type="radio" id="male" value="Male" name="gender"><br>
+            <label for="female">Female:</label>
+            <input type="radio" id="female" value="Female" name="gender"><br>
+
+            <input type="submit" value="Submit">
+
+        </form>
+
+        <p id="show-akan-name"></p>
+
+        <script src="./index.js"></script>
+    </body>
+</html>

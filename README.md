@@ -5,7 +5,7 @@
 <body>
 <p>Rose kamau<brk>  software developer  </p>
 
-<p>fill in the forms and submit to get your akan name  </p>
+<p> Instructions to be followed to get akan name :fill in the forms correctly and submit to get your akan name  </p>
 
 <h1>BDD</h1>
 <li>Technologies used:</li>

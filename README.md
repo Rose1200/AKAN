@@ -8,7 +8,10 @@
 <p>fill in the forms and submit to get your akan name</p>
 
 <h1>BDD</h1>
-
+<li>Technologies used:</li>
+<li>HTML</li>
+<li>CSS</li>
+<li> And Javascript</li>
 
 
 </body>

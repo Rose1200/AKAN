@@ -3,7 +3,7 @@
 <p>How to calculates ones birthday to generate their Akan name</p>
 
 <body>
-<p>Rose kamau<brk>  software developer  </p>
+<p>Rose kamau<brk> </p> <p> software developer  </p>
 
 <p> Instructions to be followed to get akan name :fill in the forms correctly and submit to get your akan name  </p>
 

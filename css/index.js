@@ -18,7 +18,7 @@ const displayAkanName = () => {
         document.getElementById("show-akan-name").innerHTML =`Your Akan name is: ${akanName}`
         document.getElementById("show-akan-name").style.display = 'block'
     } else if( mGender.checked) {
-        fGender.checked = false
+        mGender.checked = false
         getAkanName(maleNames);
         console.log("Akan name "+akanName)
         document.getElementById("show-akan-name").innerHTML =`Your Akan name is: ${akanName}`

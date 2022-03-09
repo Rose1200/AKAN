@@ -15,6 +15,6 @@
 <li>CSS</li>
 <li> And Javascript</li>
 
-<link> contact information :rose.kamau@student.moringaschool.com </link>
+<link>  contact information :rose.kamau@student.moringaschool.com   </link>
 
 </body>
